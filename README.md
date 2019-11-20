@@ -41,13 +41,11 @@ The main questions to answer are the following:
   -Can we predict the final test with the data of two motor tests?
   
 ## Datasets:
->>>>>>> 439adeaaa5d833ad15c13d795ec42e309e18839c
 
 The datasets used are from the logs recorded in the EOLT.
 
 There are three different datasets:
 
-<<<<<<< HEAD
 RW: From the rewinder test. TR: From the transport roller test. BT: The back tension results. From this one we only are interested in the P/F column.
 
 <a name="methodology:"></a>
@@ -56,7 +54,6 @@ RW: From the rewinder test. TR: From the transport roller test. BT: The back ten
 RW: From the rewinder test.
 TR: From the transport roller test.
 BT: The back tension results. From this one we only are interested in the P/F column.
->>>>>>> 439adeaaa5d833ad15c13d795ec42e309e18839c
 
 ## Methodology:
 
@@ -65,7 +62,6 @@ First of all an EDA is done to the RW dataset.
 Clean datasets to keep only one row per SN. In the case of the RW and TR we want to keep only the PASS results.
 
 Merge all datasets into one by the SN.
-<<<<<<< HEAD
 
 <a name="eda"></a>
 
@@ -98,6 +94,7 @@ The final results of the model are:
 F1: 0.74
 Confusion Matrix: 
 (241, 113)
+
 (695, 1619)
 
 
@@ -109,14 +106,3 @@ Confusion Matrix:
 
 The conclusion is that **is not possible to predict the back tension test result** based only in the rewinder and transport roller results.
 To improve the resuts we should increase the data and look for more related data, maybe other tests.
-
-
-
-       
-       
-
-
-
-
-=======
->>>>>>> 439adeaaa5d833ad15c13d795ec42e309e18839c
