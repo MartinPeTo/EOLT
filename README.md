@@ -1,11 +1,7 @@
-<<<<<<< HEAD
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100" align="right"/>
 
-<img src="https://cloud.google.com/images/solutions/big-data/big-data_2x.png?hl=es" alt="Google Analytics Project" width="300"/>
-
-
 #  Final Project Ironhack Data Bootcamp
-*Paula Gual*
+*Martin Pérez*
 
 *Data Part Time Barcelona May 2019*
 
