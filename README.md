@@ -46,14 +46,15 @@ The datasets used are from the logs recorded in the EOLT.
 
 There are three different datasets:
 
-RW: From the rewinder test. TR: From the transport roller test. BT: The back tension results. From this one we only are interested in the P/F column.
+RW: From the rewinder test.
+
+TR: From the transport roller test.
+
+BT: The back tension results. From this one we only are interested in the P/F column.
 
 <a name="methodology:"></a>
 
 =======
-RW: From the rewinder test.
-TR: From the transport roller test.
-BT: The back tension results. From this one we only are interested in the P/F column.
 
 ## Methodology:
 
@@ -92,7 +93,9 @@ In the **model selection** process I will take into account:
 The final results of the model are:
 
 F1: 0.74
+
 Confusion Matrix: 
+
 (241, 113)
 
 (695, 1619)
