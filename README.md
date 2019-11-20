@@ -9,7 +9,7 @@
 ## Content
 - [Project Description](#project)
 - [Dataset](#dataset)
-- [Methodology:](#methodology:)
+- [Methodology:](#methodology)
     * [EDA](#eda)
     * [Model](#model)
 - [Results](#results)
